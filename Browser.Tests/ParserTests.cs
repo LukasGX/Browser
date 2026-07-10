@@ -1,5 +1,3 @@
-using Xunit;
-
 namespace Browser.Tests;
 
 public class HtmlParserTests
